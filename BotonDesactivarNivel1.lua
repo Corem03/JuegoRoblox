@@ -1,3 +1,4 @@
+-- Codigo desarrollado por Juan Manuel Amador Roa || Universidad del Quindío || 202
 local coloress = require(game.Workspace["Nivel 2"].ModuleScript)
 local variables = require(game.Workspace.variabless)
 
