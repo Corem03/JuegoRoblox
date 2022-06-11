@@ -1,3 +1,4 @@
+-- Codigo desarrollado por Juan Manuel Amador Roa || Universidad del Quindío || 2022
 local variabes = {}
 --Nombres de los bloques solidos en el nivel 1
 variabes.buenos = {
