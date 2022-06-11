@@ -1,3 +1,4 @@
+-- Codigo desarrollado por Juan Manuel Amador Roa || Universidad del Quindío || 2022
 local module = {}
 module.buenR = {}
 module.buenG = {}
