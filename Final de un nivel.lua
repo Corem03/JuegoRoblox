@@ -1,3 +1,4 @@
+-- Codigo desarrollado por Juan Manuel Amador Roa || Universidad del Quindío || 202
 local spawn = script.Parent
 local niv1 = require(game.Workspace["Nivel 1"].ModuleScript)
 local carpeta = game.Workspace["Nivel 1"]
