@@ -1,3 +1,4 @@
+-- Codigo desarrollado por Juan Manuel Amador Roa || Universidad del Quindío || 202
 -- Aqui se pinta cada bloque de un color aleatorio dependiendo de que se haya elegido
 -- Hay 1 codigo por boton (hay 7 botones)
 local spawn = script.Parent
